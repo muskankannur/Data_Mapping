@@ -6,7 +6,7 @@ The goal of this dashboard is to help healthcare professionals and administrator
 
 ## 🖼️ **Dashboard Preview**
 
-![Healthcare Dashboard](./screenshots/healthcare_dashboard.png)  
+![Healthcare Dashboard](Dashboard.png)  
 
 *(A Power BI dashboard showing patient waitlist insights by case type, age, and specialty.)*  
 
